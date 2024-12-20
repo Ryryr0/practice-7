@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.21",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
